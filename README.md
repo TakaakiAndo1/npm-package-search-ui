@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Abstract
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## このリポジトリは、ReactとReduxを使ったNPMパッケージ検索UIのサンプルプロジェクトです。
+
+## Installation
+
+### `npm i --legacy-peer-deps`
 
 ## Available Scripts
 
